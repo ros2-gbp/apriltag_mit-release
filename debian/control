@@ -1,0 +1,12 @@
+Source: ros-jazzy-apriltag-mit
+Section: misc
+Priority: optional
+Maintainer: Bernd Pfrommer <bernd.pfrommer@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), clang-tidy, cmake, libboost-dev, libeigen3-dev, libopencv-dev, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-apriltag-mit
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, clang-tidy, libboost-dev, libeigen3-dev, libopencv-dev, ros-jazzy-ros-workspace
+Description: ROS2 package wrapper for the MIT apriltag detector
