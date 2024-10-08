@@ -1,3 +1,26 @@
+## apriltag_mit (iron) - 2.0.0-1
+
+The packages in the `apriltag_mit` repository were released into the `iron` distro by running `/usr/bin/bloom-release --edit-track --rosdistro iron --track iron apriltag_mit` on `Tue, 08 Oct 2024 14:41:39 -0000`
+
+The `apriltag_mit` package was released.
+
+Version of package(s) in repository `apriltag_mit`:
+
+- upstream repository: https://github.com/ros-misc-utilities/apriltag_mit.git
+- release repository: https://github.com/ros2-gbp/apriltag_mit-release.git
+- rosdistro version: `1.0.3-1`
+- old version: `1.0.3-1`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## apriltag_mit (rolling) - 1.0.3-1
 
 The packages in the `apriltag_mit` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --edit-track --rosdistro rolling --track rolling apriltag_mit` on `Thu, 26 Sep 2024 11:52:05 -0000`
